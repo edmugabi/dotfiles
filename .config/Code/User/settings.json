@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Default Light+",
+    "editor.quickSuggestions": null,
+    "markdown.styles": [],
+    "editor.minimap.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "editor.autoClosingDelete": "never",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "none"
+}
